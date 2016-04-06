@@ -1,4 +1,4 @@
-# MDB Carousel
+# MDB Advance Landing Page
 
 ## Description
 Advance Landing Page created with MDB (Material Design Bootstrap)
